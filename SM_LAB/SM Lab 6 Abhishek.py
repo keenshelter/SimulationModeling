@@ -1,14 +1,12 @@
-# Tyre Shop Modelling and Simulation
-# Name---->Arun Pandey
-# Roll -->1/17/FET/BCS/046
-
-
-
 import random
 p = list(map(int,input("\nEnter the reorder value according to policy : ").strip().split()))
 q = list(map(int,input("\nEnter the reorder quantity according to policy : ").strip().split()))
 
 cost=[0]*5
+
+
+print("Abhishek Malik 8CSA")
+print("1/17/FET/BCS/007\n\n")
 
 for i in range(5):
     day=0
